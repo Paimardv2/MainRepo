@@ -1,0 +1,6 @@
+name:  hauptseite
+title:  HAUPTSEITE
+version:  '1.0' 
+start_page:  hauptseite.adoc 
+nav: 
+-  modules/ROOT/nav.adoc
